@@ -1,4 +1,4 @@
-# TEMARIO
+# TEMARIO MÓDULO 01
 
 * Clase01 - Introducción a Data Science
 * Clase02 - Git y Github
